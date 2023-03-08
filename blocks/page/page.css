@@ -3,7 +3,7 @@
   max-height: 6875px;
   margin: 0 auto;
   background-color: #2a2c2f;
-  color: #FFFFFF
+  color: #FFFFFF;
   }
   @media (max-width: 1024px) {
     .page{
