@@ -1,13 +1,13 @@
-.header__indent{
+.header_margin{
   margin: 28px 48px 0;
 }
 @media (max-width: 768px) {
-  .header__indent{
+  .header_margin{
     margin: 28px 24px 0;
   }
 }
 @media (max-width: 425px) {
-  .header__indent{
+  .header_margin{
     margin: 16px 16px 0;
   }
 }
