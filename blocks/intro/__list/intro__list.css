@@ -1,0 +1,15 @@
+.intro__list{
+  max-width: 690px;
+  height: 90px;
+  margin: 0;
+}
+@media (max-width: 768px) {
+  .intro__list{
+    max-width: 720px;
+  }
+}
+@media (max-width: 425px) {
+  .intro__list{
+    max-width: 288px;
+  }
+}

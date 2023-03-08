@@ -1,0 +1,25 @@
+.page{
+  max-width: 1280px;
+  max-height: 6875px;
+  margin: 0 auto;
+  background-color: #2a2c2f;
+  color: #FFFFFF
+  }
+  @media (max-width: 1024px) {
+    .page{
+      max-width: 1024px;
+      max-height: 6895px;
+    }
+  }
+  @media (max-width: 768px) {
+    .page{
+      max-width: 768px;
+      max-height: 6855px;
+    }
+  }
+  @media (max-width: 425px) {
+    .page{
+      max-width: 320px;
+      max-height: 10023px;
+    }
+  }

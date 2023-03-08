@@ -1,0 +1,15 @@
+.intro{
+  width: 690px;
+  height: 429px;
+}
+@media (max-width: 768px) {
+  .intro{
+    width: 720px;
+  }
+}
+@media (max-width: 425px) {
+  .intro{
+    width: 288px;
+    height: 754px;
+  }
+}

@@ -1,0 +1,27 @@
+.footer{
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  max-width: 1184px;
+  height: 18px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+}
+@media (max-width: 1024px) {
+  .footer{
+    max-width: 928px;
+  }
+}
+@media (max-width: 768px) {
+  .footer{
+    max-width: 720px;
+  }
+}
+@media (max-width: 425px) {
+  .footer{
+    max-width: 186px;
+    min-height: 310px;
+    flex-direction: column;
+  }
+}

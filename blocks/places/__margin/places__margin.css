@@ -1,0 +1,18 @@
+.places__margin{
+  margin: 0 148px 92px;
+}
+@media (max-width: 1024px) {
+  .places__margin{
+    margin: 0 48px 92px;
+  }
+}
+@media (max-width: 768px) {
+  .places__margin{
+    margin: 0 24px 90px;
+  }
+}
+@media (max-width: 425px) {
+  .places__margin{
+    margin: 0 0 66px;
+  }
+}

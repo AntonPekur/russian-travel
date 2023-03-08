@@ -1,0 +1,8 @@
+.cover__margin{
+  margin: 0 48px 0;
+}
+@media (max-width: 1024px) {
+  .cover__margin{
+    margin: 0;
+  }
+}
