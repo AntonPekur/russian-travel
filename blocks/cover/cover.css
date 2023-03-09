@@ -4,19 +4,19 @@
 }
 @media (max-width: 1024px) {
   .cover{
-    width: 1024px;
-    min-height: 640px;
+    max-width: 1024px;
+    max-height: 640px;
   }
 }
 @media (max-width: 768px) {
   .cover{
-    width: 768px;
-    min-height: 480px;
+    max-width: 768px;
+    max-height: 480px;
   }
 }
 @media (max-width: 425px) {
   .cover{
-    width: 320px;
-    min-height: 200px;
+    max-width: 320px;
+    max-height: 200px;
   }
 }

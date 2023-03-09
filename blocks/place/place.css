@@ -2,7 +2,8 @@
   list-style: none;
   font-family: 'Inter', Arial, sans-serif;
   display: grid;
-  grid-template-columns: 460px 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(440px, 1fr));
+  max-width: 100%;
   grid-gap: 48px 40px;
   grid-template-areas:
     "title url"
@@ -10,13 +11,13 @@
 }
 @media (max-width: 1024px) {
   .place{
-    grid-template-columns: 440px 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
     grid-gap: 48px 32px;
   }
 }
 @media (max-width: 768px) {
   .place{
-    grid-template-columns: 340px 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     grid-gap: 48px 28px;
   }
 }

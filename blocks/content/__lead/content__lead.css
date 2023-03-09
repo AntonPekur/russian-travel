@@ -1,18 +1,18 @@
-.lead_margin{
-  margin: 56px 148px 0;
+.content__lead{
+  margin: 56px auto 0;
 }
 @media (max-width: 1024px) {
-  .lead_margin{
-    margin: 48px 48px 0;
+  .content__lead{
+    margin: 48px auto 0;
   }
 }
 @media (max-width: 768px) {
-  .lead_margin{
+  .content__lead{
     margin: 48px 0 0;
   }
 }
 @media (max-width: 425px) {
-  .lead_margin{
+  .content__lead{
     margin: 48px 0 0;
   }
 }

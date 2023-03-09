@@ -1,0 +1,18 @@
+.content__places{
+  margin: 0 auto 92px;
+}
+@media (max-width: 1024px) {
+  .content__places{
+    margin: 0 auto 92px;
+  }
+}
+@media (max-width: 768px) {
+  .content__places{
+    margin: 0 auto 90px;
+  }
+}
+@media (max-width: 425px) {
+  .content__places{
+    margin: 0 0 66px;
+  }
+}

@@ -1,18 +1,18 @@
-.intro_margin{
+.content__intro{
   margin: 92px 442px 92px 148px;
 }
 @media (max-width: 1024px) {
-  .intro_margin{
+  .content__intro{
     margin: 92px 286px 92px 48px;
   }
 }
 @media (max-width: 768px) {
-  .intro_margin{
+  .content__intro{
     margin: 88px 24px 88px;
   }
 }
 @media (max-width: 425px) {
-  .intro_margin{
+  .content__intro{
     margin: 64px 16px 64px;
   }
 }

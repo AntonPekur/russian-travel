@@ -9,22 +9,23 @@
   font-weight: 400;
   font-size: 30px;
   line-height: 36px;
+  width: 100%;
 }
 @media (max-width: 1024px) {
   .lead__subtitle{
-    margin: 0 144px 56px;
+    margin: 0 auto 56px;
   }
 }
 @media (max-width: 768px) {
   .lead__subtitle{
-    margin: 0 64px 56px;
+    margin: 0 auto 56px;
   }
 }
 @media (max-width: 425px) {
   .lead__subtitle{
     max-width: 288px;
     height: 40px;
-    margin: 0 16px 40px;
+    margin: 0 auto 40px;
     font-size: 16px;
     line-height: 20px;
   }

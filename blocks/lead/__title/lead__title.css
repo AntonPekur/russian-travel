@@ -9,22 +9,23 @@
   font-weight: 900;
   font-size: 96px;
   line-height: 100px;
+  width: 100%;
 }
 @media (max-width: 1024px) {
   .lead__title{
-    margin: 0 104px 32px;
+    margin: 0 auto 32px;
   }
 }
 @media (max-width: 768px) {
   .lead__title{
-    margin: 0 24px 32px;
+    margin: 0 auto 32px;
   }
 }
 @media (max-width: 425px) {
   .lead__title{
     max-width: 288px;
     height: 88px;
-    margin: 0 16px 16px;
+    margin: 0 auto 16px;
     font-size: 40px;
     line-height: 44px;
   }
