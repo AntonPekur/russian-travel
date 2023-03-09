@@ -3,6 +3,9 @@
   margin: 0;
   padding: 0;
   list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
 }
 @media (max-width: 425px) {
   .place__website{

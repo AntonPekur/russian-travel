@@ -21,7 +21,7 @@
     grid-gap: 48px 28px;
   }
 }
-@media (max-width: 425px) {
+@media (max-width: 690px) {
   .place{
     display: flex;
     flex-direction: column;
