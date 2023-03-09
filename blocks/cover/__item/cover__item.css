@@ -1,6 +1,7 @@
 .cover__item{
   background-image: url(../../../images/cover-trains.jpg);
   text-decoration: none;
+  max-width: 1184px;
   min-height: 740px;
   color: #FFFFFF;
   background-size: cover;
@@ -16,17 +17,20 @@
 }
 @media (max-width: 1024px) {
   .cover__item{
-    max-height: 640px;
+    max-width: 1024px;
+    min-height: 640px;
   }
 }
 @media (max-width: 768px) {
   .cover__item{
-    max-height: 480px;
+    max-width: 768px;
+    min-height: 480px;
   }
 }
 @media (max-width: 425px) {
   .cover__item{
-    max-height: 200px;
+    max-width: 320px;
+    min-height: 200px;
   }
 }
 .cover__item::before{

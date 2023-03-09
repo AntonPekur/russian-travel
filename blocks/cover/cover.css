@@ -5,18 +5,18 @@
 @media (max-width: 1024px) {
   .cover{
     max-width: 1024px;
-    max-height: 640px;
+    min-height: 640px;
   }
 }
 @media (max-width: 768px) {
   .cover{
     max-width: 768px;
-    max-height: 480px;
+    min-height: 480px;
   }
 }
 @media (max-width: 425px) {
   .cover{
     max-width: 320px;
-    max-height: 200px;
+    min-height: 200px;
   }
 }
