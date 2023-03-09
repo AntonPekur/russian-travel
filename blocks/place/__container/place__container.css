@@ -12,6 +12,6 @@
 }
 @media (max-width: 425px) {
   .place__container{
-    margin: 32px 16px 0;
+    margin: 32px auto 0;
   }
 }
