@@ -6,3 +6,8 @@
     margin: 0;
   }
 }
+@media (max-width: 690px) {
+  .content__cover{
+    margin: 0 auto 0;
+  }
+}
