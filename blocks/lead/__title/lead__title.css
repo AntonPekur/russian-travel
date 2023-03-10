@@ -10,11 +10,6 @@
   line-height: 100px;
   width: 100%;
 }
-@media (max-width: 1024px) {
-  .lead__title{
-    margin: 0 auto 32px;
-  }
-}
 @media (max-width: 690px) {
   .lead__title{
     max-width: 288px;

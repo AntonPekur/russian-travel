@@ -15,11 +15,6 @@
     margin: 0 auto 56px;
   }
 }
-@media (max-width: 768px) {
-  .lead__subtitle{
-    margin: 0 auto 56px;
-  }
-}
 @media (max-width: 690px) {
   .lead__subtitle{
     max-width: 288px;
