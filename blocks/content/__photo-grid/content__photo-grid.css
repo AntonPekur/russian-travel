@@ -6,7 +6,7 @@
     margin: 88px auto 88px;
   }
 }
-@media (max-width: 425px) {
+@media (max-width: 690px) {
   .content__photo-grid{
     margin: 64px auto 64px;
   }

@@ -6,7 +6,7 @@
     margin: 0 auto 90px;
   }
 }
-@media (max-width: 425px) {
+@media (max-width: 690px) {
   .content__places{
     margin: 0 0 66px;
   }

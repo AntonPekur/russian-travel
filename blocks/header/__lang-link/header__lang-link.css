@@ -10,7 +10,7 @@
   line-height: 28px;
   color: #FFFFFF;
 }
-@media (max-width: 425px) {
+@media (max-width: 690px) {
   .header__lang-link{
     max-width: 22px;
     font-size: 18px;

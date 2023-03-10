@@ -27,7 +27,7 @@
     min-height: 480px;
   }
 }
-@media (max-width: 425px) {
+@media (max-width: 690px) {
   .cover__item{
     max-width: 320px;
     min-height: 200px;
